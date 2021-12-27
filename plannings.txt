@@ -1,0 +1,18 @@
+Book My Show
+
+1) We need a reusable carousal
+- Hero carousal 
+-Common carousal
+-Cast and crew small carousal
+
+2)Pages
+-Home Page
+-Movie Page
+-Categories Page
+-Razorpay payment gateway
+
+3)Building
+-Layouts (in react there is layout first approach )
+-Routes
+-Pages 
+-Components
